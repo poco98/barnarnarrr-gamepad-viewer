@@ -1,0 +1,43 @@
+{
+  "name": "barnarnarrrr",
+  "version": 2,
+  "edition": "Midnight / Banana Studio",
+  "output": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\outputs\\Barnarnarrrr-XboxOne-v2",
+  "geometrySource": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\work\\barn-source\\ItzKxtee-XboxOne-v4",
+  "reference": "https://www.twitch.tv/barnarnarrrr/about",
+  "branding": "Channel-inspired custom banana emblem; not an official mark",
+  "dimensions": [
+    750,
+    630
+  ],
+  "assets": [
+    "base",
+    "abxy",
+    "bumper",
+    "disconnected",
+    "dpad",
+    "quadrant",
+    "start-select",
+    "stick",
+    "trigger"
+  ],
+  "language": "en",
+  "palette": {
+    "navy": "#172C47",
+    "yellow": "#F3CB61",
+    "ivory": "#F3F0E4"
+  },
+  "guideGlow": {
+    "selector": ".xbox .meta.pressed",
+    "logoBox": [
+      344,
+      162,
+      62,
+      58
+    ],
+    "color": "#FFE16B",
+    "heldOnly": true
+  },
+  "sourceVersion": 1,
+  "cleanup": "Removed lower-shell decorative block row"
+}
